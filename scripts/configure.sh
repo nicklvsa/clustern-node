@@ -21,3 +21,4 @@ mkdir app
 git clone https://github.com/nicklvsa/clustern-node
 cd clustern-node
 nohup go run main.go &
+exit 0
